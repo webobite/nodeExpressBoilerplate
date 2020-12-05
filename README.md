@@ -1,8 +1,5 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/webobite/nodeExpressBoilerplate)
 ----------
-Deployment is done using Vercel <br/>
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fwebobite%2FnodeExpressBoilerplate)
-----------
 # Node Express Boilerplate
 A Boilerplate code for node and Express Js
 
