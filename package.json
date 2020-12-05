@@ -1,0 +1,24 @@
+{
+  "name": "nodeexpressboilerplate",
+  "version": "1.0.0",
+  "description": "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/webobite/nodeExpressBoilerplate)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webobite/nodeExpressBoilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webobite/nodeExpressBoilerplate/issues"
+  },
+  "homepage": "https://github.com/webobite/nodeExpressBoilerplate#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
