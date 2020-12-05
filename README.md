@@ -1,6 +1,5 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/webobite/nodeExpressBoilerplate)
 [![License MIT](https://badgen.net/badge/license/MIT/blue)](https://badgen.net/badge/license/MIT/blue)
-[![Check Github](https://badgen.net/github/checks/webobite/nodeExpressBoilerplate/main)](https://badgen.net/github/checks/webobite/nodeExpressBoilerplate/main)
 ----------
 # Node Express Boilerplate
 A Boilerplate code for node and Express Js
